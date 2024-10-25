@@ -7,3 +7,5 @@ Get started by reading [[README]]#.
 Other pages on this zettelkasten:
 
 - [[faq]]#
+
+Fun fact: I should sleep already...
